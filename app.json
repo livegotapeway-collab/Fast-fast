@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Fast Fast",
+    "slug": "fast-fast",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.fastfast.app"
+    }
+  }
+}
